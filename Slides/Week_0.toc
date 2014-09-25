@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.20pt}
+\beamer@endinputifotherversion {3.33pt}
 \beamer@sectionintoc {1}{Algebra}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Numbers}{4}{0}{1}
 \beamer@subsectionintoc {1}{2}{Exponents}{5}{0}{1}
